@@ -26,16 +26,21 @@
       <artifactId>spring-core</artifactId>
       <version>6.2.6</version>
     </dependency>
-
-
-
+    <dependency>
+      <groupId>org.apache.spark</groupId>
+      <artifactId>spark-core_2.12</artifactId>
+      <version>3.5.1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.spark</groupId>
+      <artifactId>spark-sql_2.12</artifactId>
+      <version>3.5.1</version>
+    </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-beans</artifactId>
       <version>6.2.6</version>
     </dependency>
-
-
 
     <dependency>
       <groupId>org.springframework</groupId>
